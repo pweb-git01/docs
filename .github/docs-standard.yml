@@ -1,0 +1,9 @@
+# Conformance declaration for the puglieseweb Documentation Standard (§5.7).
+# This is the committed, plain-git-visible record of the pillar roles this
+# repository plays; SystemDox reads it at publish time.
+standard: "1.0"
+level: 1
+pillars:
+  requirements: host
+  design: host
+  components: host
